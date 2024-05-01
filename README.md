@@ -73,8 +73,13 @@ $ npm run dev
 * [![Tailwind][Tailwind]][Tailwind-url]
 * [![Html][Html]][Html-url]
 * [![Js][Js]][Js-url]
-* [![Threejs][Threejs]][Threejs-url]
+* [![Python][Python]][Python-url]
+* [![Pytorch][Pytorch]][Pytorch-url]
 * [![Reactjs][Reactjs]][Reactjs-url]
+* [![Tensorflow][Tensorflow]][Tensorflow-url]
+* [![SQLite][SQLite]][SQLite-url]
+* [![Docker][Docker]][Docker-url]
+* [![AWS][AWS]][AWS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +92,7 @@ $ npm run dev
 <br />
 Puneet Sandher -  puneetsandher@gmail.com
 
-Project Link: [https://github.com/p-sandher/updated-personal-website](https://github.com/p-sandher/updated-personal-website)
+Project Link: [https://github.com/p-sandher/Instagram_Trend_Analyzer](https://github.com/p-sandher/Instagram_Trend_Analyzer)
 
 Website Link: [https://puneet-sandher.netlify.app/](https://puneet-sandher.netlify.app/)
 
@@ -122,7 +127,16 @@ ReadME template is from
 [Js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Python]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [Python-url]: https://www.python.org/
-[Threejs]: https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white
-[Threejs-url]: https://threejs.org/docs/
+[Pytorch]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
+[Pytorch-url]: https://pytorch.org/docs/stable/index.html
 [Reactjs]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [Reactjs-url]: https://react.dev/
+[Tensorflow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
+[Tensorflow-url]: https://www.tensorflow.org/
+[SQLite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+[SQLite-url]: https://www.sqlite.org/docs.html
+[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://docs.docker.com/
+[AWS]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[AWS-url]: https://docs.aws.amazon.com/
+
