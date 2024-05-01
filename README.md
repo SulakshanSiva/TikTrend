@@ -34,10 +34,9 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/p-sandher/updated-personal-website"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/p-sandher/Instagram_Trend_Analyzer"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://puneet-sandher.netlify.app/"><strong>View Website »</strong></a>
   </p>
 </div>
 
