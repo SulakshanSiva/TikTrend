@@ -46,27 +46,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="website-preview.png" alt="Website Preview">
-
-This portfolio website is designed to showcase my journey and competencies as a software developer. It features interactive 3D animations powered by Three.js, enhancing the user experience and providing a dynamic way to explore my professional experiences, skills, and projects. The site is built with a focus on visual storytelling, aiming to present my work in the most engaging manner. Through this portfolio, I aim to illustrate not only my technical abilities but also my creativity and passion for software development. Please explore the site to learn more about my personal and professional milestones.
+This project is my capstone for CIS4900, set to be completed by August 30. It involves the development of a machine learning model designed to detect and predict current and future Instagram trends. The model will power a user-friendly web application that allows users to search and filter trends by time and category, providing valuable insights into social media dynamics. As I am relatively new to machine learning, this project will serve as both a challenging learning experience and an opportunity to apply theoretical knowledge in a practical, real-world scenario. By integrating data science with web development, this project aims to bridge the gap between complex machine learning algorithms and accessible digital experiences for users interested in social media trends.
 
 ### How to Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/p-sandher/updated-personal-website.git
-
-# Go into the repository
-$ cd updated-personal-website
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm run dev
-```
+Will be updated soon. 
 
 ### Built With
 
