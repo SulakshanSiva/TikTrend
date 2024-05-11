@@ -48,6 +48,7 @@
 This project is my capstone for CIS4900, set to be completed by August 30. It involves the development of a machine learning model designed to detect and predict current and future Instagram trends. The model will power a user-friendly web application that allows users to search and filter trends by time and category, providing valuable insights into social media dynamics. As I am relatively new to machine learning, this project will serve as both a challenging learning experience and an opportunity to apply theoretical knowledge in a practical, real-world scenario. By integrating data science with web development, this project aims to bridge the gap between complex machine learning algorithms and accessible digital experiences for users interested in social media trends.
 
 May 1 - May 6: Developing foundational ML and AI knowledge ✅
+
 May 7 - May 11: Architecture Design (In Progress)
 
 ### How to Use
