@@ -83,6 +83,13 @@ Project Link: [https://github.com/p-sandher/Instagram_Trend_Analyzer](https://gi
 
 Website Link: [https://puneet-sandher.netlify.app/](https://puneet-sandher.netlify.app/)
 
+Sulakshan Sivakumaran - sulakshansivak@gmail.com
+
+Project Link: [https://github.com/SulakshanSiva/Instagram_Trend_Analyzer](https://github.com/SulakshanSiva/Instagram_Trend_Analyzer)
+
+Website Link: [https://sulakshansiva.github.io/Sulakshan/](https://sulakshansiva.github.io/Sulakshan/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
