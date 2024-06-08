@@ -1,4 +1,4 @@
-# Instagram Trend Analyzer
+# TikTok Trend Analyzer
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -26,11 +26,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://puneet-sandher.netlify.app/">
-    <img src="puneet-sandher-logo.png" alt="Logo" width="200" height="200">
-  </a>
 
-<h3 align="center">Instagram Trend Analyzer</h3>
+<h3 align="center">TikTok Trend Analyzer</h3>
 
   <p align="center">
     <br />
@@ -45,11 +42,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is my capstone for CIS4900, set to be completed by August 30. It involves the development of a machine learning model designed to detect and predict current and future Instagram trends. The model will power a user-friendly web application that allows users to search and filter trends by time and category, providing valuable insights into social media dynamics. As I am relatively new to machine learning, this project will serve as both a challenging learning experience and an opportunity to apply theoretical knowledge in a practical, real-world scenario. By integrating data science with web development, this project aims to bridge the gap between complex machine learning algorithms and accessible digital experiences for users interested in social media trends.
+TikTok Trend Analyzer is an undergraduate capstone project in for CIS*4900 at the University of Guelph, set to be completed by August 30, 2024. This project invovles the development of a machine learning model to identify and predict TikTok trends. After the model has been trained, a user-friendly web application will allow users to search and filter trends by time and category. This project is developed by Sulakshan Sivakumaran and Puneet Sandher, both who have limited experience with machine learning and this project is considered a learning experience.  
 
-May 1 - May 6: Developing foundational ML and AI knowledge ✅
 
-May 7 - May 11: Architecture Design (In Progress)
+### Project Milestones: Weekly Breakdown
+
+Week 1 (May 1 - May 6): Developing foundational ML and AI knowledge ✅
+
+Week 2 (May 7 - May 11): Architecture Design ✅
+
+Week 3 (May 12 - May 18): Find relevant datasets and develop scripts to webscrape data ✅
+
+Week 4 (May 19 to May 26) : Research Data Preprocessing Techniques ✅
+
+Week 5 (May 27 to June 5): Preprocess Data ✅
+
+Week 6 (June 6 to June 13): Prepare report and deliverables for submission
+
+Week 7 
 
 ### How to Use
 
