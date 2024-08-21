@@ -21,12 +21,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
+![TikTok Banner](Graphs/images/tiktokBackground.png)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-![TikTok Banner](Graphs/images/tiktokBackground.png)
 
 <h3 align="center">TikTok Trend Analyzer</h3>
 
