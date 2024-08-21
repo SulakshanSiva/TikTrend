@@ -42,28 +42,33 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-TikTok Trend Analyzer is an undergraduate capstone project in for CIS*4900 at the University of Guelph, set to be completed by August 30, 2024. This project invovles the development of a machine learning model to identify and predict TikTok trends. After the model has been trained, a user-friendly web application will allow users to search and filter trends by time and category. This project is developed by Sulakshan Sivakumaran and Puneet Sandher, both who have limited experience with machine learning and this project is considered a learning experience.  
+TikTok Trend Analyzer is an undergraduate capstone project  for CIS*4900 at the University of Guelph, set to be completed by August 10, 2024. This project invovles the development of a machine learning model to identify and predict TikTok trends. After the model has been trained, a user-friendly web application will allow users to search and filter trends by time and category. This project is developed by Sulakshan Sivakumaran and Puneet Sandher, both who have limited experience with machine learning and this project is considered a learning experience. 
 
+
+This repository includes the entire development process including data preprocessing, model training, model finetuning, evaluating models and created graphs, and the final report. 
 
 ### Project Milestones: Weekly Breakdown
 
 Week 1 (May 1 - May 6): Developing foundational ML and AI knowledge ✅
 
-Week 2 (May 7 - May 11): Architecture Design ✅
+Week 2 (May 7 - May 11): Architecture design ✅
 
 Week 3 (May 12 - May 18): Find relevant datasets and develop scripts to webscrape data ✅
 
-Week 4 (May 19 to May 26) : Research Data Preprocessing Techniques ✅
+Week 4 (May 19 to May 26) : Research data preprocessing techniques ✅
 
-Week 5 (May 27 to June 5): Preprocess Data ✅
+Week 5 (May 27 to June 5): Preprocess data ✅
 
 Week 6 (June 6 to June 13): Prepare report and deliverables for submission
 
-Week 7 
+Week 7 (June 14 to June 21): Explore and learn machine learning algorithms and tools 
 
-### How to Use
+Week 8 & Week 9 (June 22 to July 6): Train models 
 
-Will be updated soon. 
+Week 10 & Week 11 (July 7 to July 21): Finetune and evaluate models
+
+Week 12 & Week 14 (July 22 to August 6): Prepare final report and deliverables 
+
 
 ### Built With
 
