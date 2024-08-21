@@ -27,8 +27,6 @@
 <br />
 <div align="center">
 
-<h3 align="center">TikTok Trend Analyzer</h3>
-
   <p align="center">
     <br />
     <a href="https://github.com/p-sandher/Instagram_Trend_Analyzer"><strong>Explore the Repo »</strong></a>
