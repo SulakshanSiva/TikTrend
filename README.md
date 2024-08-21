@@ -26,6 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+![TikTok Banner](Graphs/images/tiktokBackground.png)
 
 <h3 align="center">TikTok Trend Analyzer</h3>
 
@@ -59,15 +60,15 @@ Week 4 (May 19 to May 26) : Research data preprocessing techniques ✅
 
 Week 5 (May 27 to June 5): Preprocess data ✅
 
-Week 6 (June 6 to June 13): Prepare report and deliverables for submission
+Week 6 (June 6 to June 13): Prepare report and deliverables for submission ✅
 
-Week 7 (June 14 to June 21): Explore and learn machine learning algorithms and tools 
+Week 7 (June 14 to June 21): Explore and learn machine learning algorithms and tools ✅
 
-Week 8 & Week 9 (June 22 to July 6): Train models 
+Week 8 & Week 9 (June 22 to July 6): Train models ✅
 
-Week 10 & Week 11 (July 7 to July 21): Finetune and evaluate models
+Week 10 & Week 11 (July 7 to July 21): Finetune and evaluate models ✅
 
-Week 12 & Week 14 (July 22 to August 6): Prepare final report and deliverables 
+Week 12 & Week 14 (July 22 to August 6): Prepare final report and deliverables ✅
 
 
 ### Built With
